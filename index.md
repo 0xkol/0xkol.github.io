@@ -7,21 +7,21 @@ layout: home
 
 I'm Moshe Kol (0xkol), a security researcher and a low-level systems developer. I'm passionate about computer security and particularly interested in operating systems security, networks security and cryptography. 
 
-I have many years of experience practicing vulnerability research (embedded, kernel), reverse engineering (x86-64, Arm32/64) and exploit development. Presently, I focus on the Linux/Android kernel at [JSOF](https://www.jsof-tech.com/).
+I have many years of experience practicing vulnerability research (embedded, kernel), reverse engineering (x86-64, Arm32/64) and exploit development. Presently, I work as a vulnerability researcher at Paragon Solutions. Prior to that, I did embedded and Android kernel security research at JSOF.
 
 I obtained my M.Sc. and B.Sc. in Computer Science from the Hebrew University of Jersualem, under the supervision of [Yossi Gilad](https://www.cs.huji.ac.il/~yossigi/). In my [thesis](https://huji-primo.hosted.exlibrisgroup.com/permalink/f/78p1vd/972HUJI_ALMA11336615730003701), I worked on a new browser-based device tracking technique for Linux. 
 
 When I'm off duty, I like spending time with my loved ones.
 
-Feel free to reach out and contact me via Email!
+Feel free to reach out and contact me via Twitter/Email!
 
 # Selected Research
+
+* _Racing Against the Lock: Exploiting Spinlock UAF in the Android Kernel._ __Moshe Kol__. __OffensiveCon 2023.__ To appear.
 
 * _Device Tracking via Linux's New TCP Source Port Selection Algorithm._ __Moshe Kol__, Amit Klein, and Yossi Gilad. __USENIX Security Symposium 2023.__ [Preprint](https://www.usenix.org/system/files/sec23summer_172-kol-prepub.pdf) \| [Extended Paper](https://arxiv.org/pdf/2209.12993.pdf) \| [Source Code](https://github.com/0xkol/rfc6056-device-tracker) \| [Demo](https://www.youtube.com/watch?v=pZbfV5nCQsA) \| Selected press coverage: [LWN](https://lwn.net/Articles/910435/), [Security Now 892](https://twit.tv/shows/security-now/episodes/892?autostart=false)
 
 * _Groove: Flexible Metadata-Private Messaging._ Ludovic Barman, __Moshe Kol__, David Lazar, Yossi Gilad, and Nickolai Zeldovich. __Symposium on Operating Systems Design and Implementation (OSDI) 2022.__ [Paper](https://www.usenix.org/system/files/osdi22-barman.pdf) \| [Talk](https://www.youtube.com/watch?v=UGiT74r4nYw) (Presented by Ludovic Barman)
-
-* _NAME:WRECK -- Breaking and fixing DNS implementations._ Daniel dos Santos, Stanislav Dashevskyi, Amine Amri, Jos Wetzels, Shlomi Oberman, __Moshe Kol__. [White Paper](https://www.forescout.com/resources/namewreck-breaking-and-fixing-dns-implementations/) \| [CVE-2020-7461 Reproducer](https://github.com/0xkol/freebsd-dhclient-poc) \| [Black Hat Asia 2021 Talk](https://www.youtube.com/watch?v=iQC6EUMSdWI) + [Slides](https://i.blackhat.com/asia-21/Thursday-Handouts/as-21-dosSantos-The-Cost-of-Complexity-Different-Vulnerabilities-While-Implementing-the-Same-RFC.pdf) (Presented by Daniel dos Santos)
 
 * _DNSpooq: Cache Poisoning and RCE in Popular DNS Forwarder dnsmasq._ __Moshe Kol__, Shlomi Oberman. [White Paper](https://www.jsof-tech.com/wp-content/uploads/2021/01/DNSpooq-Technical-WP.pdf) \| [GreHack 2021 Talk](https://www.youtube.com/watch?v=kJFd3koLGfM) \| Selected press coverage: [ZDNet](https://www.zdnet.com/article/dnspooq-lets-attackers-poison-dns-cache-records/), [Threatpost](https://threatpost.com/dnspooq-flaws-allow-dns-hijacking-of-millions-of-devices/163163/), [BleepingComputer](https://www.bleepingcomputer.com/news/security/dnspooq-bugs-let-attackers-hijack-dns-on-millions-of-devices/)
 
