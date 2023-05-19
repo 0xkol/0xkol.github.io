@@ -17,7 +17,7 @@ Feel free to reach out and contact me via Twitter/Email!
 
 # Selected Research
 
-* _Racing Against the Lock: Exploiting Spinlock UAF in the Android Kernel._ __Moshe Kol__. __OffensiveCon 2023.__ To appear.
+* _Racing Against the Lock: Exploiting Spinlock UAF in the Android Kernel._ __Moshe Kol__. __OffensiveCon 2023.__ [White Paper](/assets/files/Racing_Against_the_Lock__Exploiting_Spinlock_UAF_in_the_Android_Kernel.pdf) \| [Slides](/assets/files/OffensiveCon23_Racing_Against_the_Lock__Exploiting_Spinlock_UAF_in_the_Android_Kernel.pdf) \| [Source Code](https://github.com/0xkol/badspin)
 
 * _Device Tracking via Linux's New TCP Source Port Selection Algorithm._ __Moshe Kol__, Amit Klein, and Yossi Gilad. __USENIX Security Symposium 2023.__ [Preprint](https://www.usenix.org/system/files/sec23summer_172-kol-prepub.pdf) \| [Extended Paper](https://arxiv.org/pdf/2209.12993.pdf) \| [Source Code](https://github.com/0xkol/rfc6056-device-tracker) \| [Demo](https://www.youtube.com/watch?v=pZbfV5nCQsA) \| Selected press coverage: [LWN](https://lwn.net/Articles/910435/), [Security Now 892](https://twit.tv/shows/security-now/episodes/892?autostart=false)
 
